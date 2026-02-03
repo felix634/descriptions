@@ -1,0 +1,6 @@
+We are analyzing a list of potential companies for a benchmark, the benchmarked activity is renting and leasing formworks. Please write a 1-2 sentence description of the company based on their website. Crucially, identify if they are:
+selling the formworks, renting the formworks, or both.
+
+Start every description with "The Company is engaged in...".
+
+Whenever the website is unavailable or a scraping error occurs or some problem arises that results in not being able to write the description please write "The Company's website does not work" instead.
